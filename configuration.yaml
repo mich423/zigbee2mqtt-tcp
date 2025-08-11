@@ -47,3 +47,4 @@ frontend:
 
 homeassistant:
   enabled: true
+
